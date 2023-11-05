@@ -34,7 +34,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="45" height="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" width="45" height="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="45" height="45" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Lyx_logo.png" width="45" height="45" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45" height="45" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width="45" height="45" />
 </div>
 
 <!--
