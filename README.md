@@ -9,11 +9,25 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=britprod&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV2NGZvcnUwZzg5aTMwOGZ4ZG1iYzF1MjRmb241eTQ0bWR3anZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-### Hi there 👋
+
+### :man_technologist: Hi there. I'm Sergiusz, 1st Class (88%) graduate in Mathematics with Statistics 👋
+- ⚡ I love maths, programming and data science
+- 🌱 I’m addicted to learning and growing every day
+- 💬 Ask me about maths, stats, Python programming. Always happy to help if I can.
+- 🔭 I’m currently looking for a job
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sergiusz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergiusz-pasa%C5%82ka-b11b73289/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="45" height="45"/>
+   <img src="https://matplotlib.org/_static/images/documentation.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+</div>
 
 <!--
 **britprod/britprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
